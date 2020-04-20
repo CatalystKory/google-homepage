@@ -2,3 +2,8 @@
     display: block;
     margin: 200px auto auto auto;
 }
+
+.search-bar{
+    align-items: center;
+    margin: 20px auto auto auto;
+}
