@@ -12,11 +12,7 @@
 .form-container{
     display: inline-block;
     text-align:center;
-    
-   
-   
 }
-
 .form-container input {
     height:44px;
     width:482px;
@@ -34,6 +30,11 @@
 
 }
 
+a{
+  text-decoration:none;
+  color:gray;
+}
+
 ul{
     list-style-type: none;
     margin: 0;
@@ -41,4 +42,15 @@ ul{
 }
 li{
     display: inline;
+    
+}
+.top-right{
+  float:right;
+}
+nav{
+  display:inline-block;
+}
+
+body{
+  font-family: Arial, Helvetica;
 }
