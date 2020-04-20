@@ -5,5 +5,8 @@
 
 .search-bar{
     align-items: center;
-    margin: 20px auto auto auto;
+    margin: 0 auto;
+    height: 44px;
+    width: 400px;
+    position: relative;
 }
