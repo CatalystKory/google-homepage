@@ -3,9 +3,6 @@
     margin: 200px auto auto auto;
 }
 
-.search-bar{
-    position: relative;
-    margin: 200px auto;
 
 }
 .search-bar input{
@@ -14,4 +11,5 @@
     border-radius: 20px;
     border:4px;
     border-color: gray;
+    margin: 0 auto;
 }
