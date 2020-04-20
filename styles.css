@@ -3,10 +3,15 @@
     margin: 200px auto auto auto;
 }
 
+.search-bar{
+    position: relative;
+    margin: 0 auto;
+
+}
 .search-bar input{
     height: 44px;
     width: 400px;
-    margin: 0 auto;
-    position: relative;
     border-radius: 20px;
+    border:4px;
+    border-color: gray;
 }
