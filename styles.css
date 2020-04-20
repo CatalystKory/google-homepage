@@ -4,8 +4,8 @@
 }
 
 .search-bar{
-    margin: 0 auto;
     height: 44px;
     width: 400px;
+    margin: 0 auto;
     position: relative;
 }
