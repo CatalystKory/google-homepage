@@ -54,3 +54,17 @@ nav{
 body{
   font-family: Arial, Helvetica;
 }
+
+footer{
+  position:fixed;
+  bottom:0;
+  width: 100%;
+  background-color: #333;
+  
+}
+.bottom-right{
+  float:right;
+  padding-right: 20px;
+  
+  
+}
